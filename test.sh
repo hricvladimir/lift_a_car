@@ -22,6 +22,7 @@ run_test() {
         echo "Test PASSED: $stick_length, $human_weight, $car_weight => $expected_output"
     else
         echo "Test FAILED: $stick_length, $human_weight, $car_weight => Očakávané: $expected_output, Dostali sme: $output"
+        exit 1
     fi
 }
 
