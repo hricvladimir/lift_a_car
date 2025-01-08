@@ -11,7 +11,7 @@ Pozrime sa na realizáciu podobného pokusu v reálnych podmienkach. Predpoklada
 
 $$r1 + r2 = 2 \implies r1 = 2 – r2$$  
 $$m1 * r1 = m2 * r2$$  
-$$...
+$$...$$
 $$r2 = 2 * m1 / (m1 + m2)$$
 
 ## Zadanie
