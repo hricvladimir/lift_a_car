@@ -11,6 +11,7 @@ $(PROGRAM): $(SOURCES)
 	$(CC) -o $(PROGRAM) $(SOURCES) $(CFLAGS)
 
 test: $(PROGRAM)
+	chmod +x test.sh
 	./test.sh
  
 clean:
